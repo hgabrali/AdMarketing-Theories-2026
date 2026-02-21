@@ -139,5 +139,17 @@ Contributions are welcome from researchers, practitioners, and theorists. Please
 MIT License — Open for academic and non-commercial use with attribution.
 
 ---
+## License
+
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+This work is licensed under a **Creative Commons Attribution-NonCommercial 4.0 International License**.
+
+### Usage Rights & Restrictions:
+* **Attribution:** You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+* **Non-Commercial:** You may **not** use the material (including the *Agentic Revenue Architecture* and *Synthetic Market Strategy* PDFs) for commercial purposes.
+* **No Additional Restrictions:** You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+For commercial inquiries or custom implementation of these frameworks, please contact the repository owner.
 
 *Last updated: 2026 | Maintained by [@hgabrali](https://github.com/hgabrali)*
